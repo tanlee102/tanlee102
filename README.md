@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Vietnamese guy who has a passion for developing his own quality product.
+I'm a Vietnamese guy who has a passion for developing my own quality product.
 
 - I love code 💻, edit video 🧑‍💻, create content ✍️, sport ⚽, bitcoin 🪙.
 - I enjoy learning new stuff and making notes 📄.
