@@ -1,10 +1,9 @@
-### Hi there 👋
+Hi there 👋
+I'm a passionate developer from Vietnam, dedicated to creating high-quality products independently.
 
-I am a Vietnamese individual with a strong passion for developing high-quality products on my own.
+-  I have a deep passion for coding, video editing, content writing, football, and chess.
+-  I love learning new things and enjoy documenting my journey to expand my knowledge 📚.
+-  While I have a strong desire to travel, I'm currently focusing on building my career.
+-  I'm actively seeking job opportunities and remain hopeful about finding the right role soon!
 
-- I have a deep love for coding 💻, video editing 🧑‍💻, content creation ✍️, ⚽, and Web3 🪙.
-- I take pleasure in learning new things and taking notes to expand my knowledge 📄.
-- Although I enjoy traveling, I currently lack the financial means to do so.
-- Presently, I am unemployed and eagerly searching for job opportunities. I remain optimistic that I will secure employment soon!
-
-📧 Contact me: https://twitter.com/tanlee102
+📧 Feel free to connect with me: x.com/tanlee102
