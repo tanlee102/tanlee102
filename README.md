@@ -6,4 +6,4 @@ I'm a passionate developer from Vietnam, dedicated to creating high-quality prod
 -  While I have a strong desire to travel, I'm currently focusing on building my career.
 -  I'm actively seeking job opportunities and remain hopeful about finding the right role soon!
 
-📧 Feel free to connect with me: x.com/tanlee102
+📧 Feel free to connect with me: [x.com/tanlee102](https://x.com/tanlee102)
