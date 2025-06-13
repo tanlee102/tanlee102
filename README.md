@@ -1,4 +1,4 @@
-Hi there 👋
-I'm a passionate developer from Vietnam, dedicated to independently creating high-quality products. I have a deep love for coding, video editing, content writing, watching anime, playing chess, and football. I enjoy learning new things and documenting my journey to expand my knowledge 📚. While I have a strong desire to travel, I'm currently focused on building my career. I'm actively seeking job opportunities and remain hopeful about finding the right role soon!
+Hi there 👋
+I’m a passionate developer from Vietnam, dedicated to crafting high‑quality products from concept to launch. My interests span coding, video editing, content writing, anime, chess, and football... I love learning new technologies and sharing my journey along the way 📚. Currently, I’m focused on growing my latest project—explore it at miwabox.com 🌐.
 
-📧 Feel free to connect with me: lequoctanre@gmail.com
+Feel free to say hello: lequoctanre@gmail.com
